@@ -12,7 +12,7 @@ Rotation: E/Q or R1 and L1
 
 # Features
 
-This is a standard version of Tetris, but there are some things 
+This is a standard version of Tetris, but there are some things to note:
 
 - Animated UMG game start and end UI
 - Board logic implemented to facilitate one-move-lookahead for upcoming AI system.
